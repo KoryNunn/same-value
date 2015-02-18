@@ -1,0 +1,26 @@
+{
+  "name": "same-value",
+  "version": "1.0.0",
+  "description": "Check if two values have the same value.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "keywords":[
+    "equal",
+    "same",
+    "equivalent",
+    "compare",
+    "date",
+    "invalid",
+    "NaN"
+  ]
+}
