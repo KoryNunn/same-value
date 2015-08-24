@@ -4,12 +4,12 @@ module.exports = function isSame(a, b){
     }
 
     if(
-        typeof a !== typeof b || 
-        typeof a === 'object' && 
+        typeof a !== typeof b ||
+        typeof a === 'object' &&
         !(a instanceof Date && b instanceof Date)
     ){
         return false;
     }
 
-    return a + '' === b + '';
+    return String(a) === String(b);
 };
