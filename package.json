@@ -1,6 +1,6 @@
 {
   "name": "same-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if two values have the same value.",
   "main": "index.js",
   "directories": {
@@ -14,7 +14,7 @@
   "devDependencies": {
     "tape": "^3.5.0"
   },
-  "keywords":[
+  "keywords": [
     "equal",
     "same",
     "equivalent",
