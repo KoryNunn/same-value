@@ -22,5 +22,13 @@
     "date",
     "invalid",
     "NaN"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/same-value.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/same-value/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/same-value#readme"
 }
